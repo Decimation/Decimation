@@ -42,4 +42,4 @@ I have done some research and projects on Texas Instruments calculators, specifi
 
 ## Other info
 
-Old school account: @StantonR16
+Old school account: [@StantonR16](https://github.com/StantonR16)
