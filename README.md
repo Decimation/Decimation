@@ -2,10 +2,10 @@
 
 I'm a Computer Science student at the University of Minnesota.
 
-# Low-level Research
+## Low-level Research
 
 <details>
-  <summary>See more...</summary>
+  <summary>Click to open</summary>
   <br />
 
 I enjoy researching and working with low-level components such as memory, machine architecture, OS design, and so on. I sometimes work on "hacky" projects that tinker with hidden/low-level functionality. 
@@ -25,10 +25,10 @@ Some of my work on subverting the .NET CLR and implementing/accessing features t
 
 
 
-# TI Calculators
+## TI Calculators
 
 <details>
-  <summary>See more...</summary>
+  <summary>Click to open</summary>
   <br />
 
 I have done some research and projects on Texas Instruments calculators, specifically the TI-84 Plus CE and the TI-Nspire calculators.
@@ -40,6 +40,6 @@ I have done some research and projects on Texas Instruments calculators, specifi
 
 
 
-# Other info
+## Other info
 
 Old school account: @StantonR16
