@@ -31,6 +31,7 @@ Some of my work on analyzing the .NET CLR and implementing/accessing features th
 - [RazorSharp](https://github.com/Decimation/RazorSharp)
 - [NeoCore](https://github.com/Decimation/NeoCore)
 - [Gadget](https://github.com/Decimation/Gadget)
+- [Novus](https://github.com/Decimation/Novus)
 
 </details>
 
