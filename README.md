@@ -28,10 +28,9 @@ I research the .NET CLR and its internal functionality. I have written some shor
 
 Some of my work on analyzing the .NET CLR and implementing/accessing features that are usually forbidden:
 
-- [RazorSharp](https://github.com/Decimation/RazorSharp)
-- [NeoCore](https://github.com/Decimation/NeoCore)
-- [Gadget](https://github.com/Decimation/Gadget)
 - [Novus](https://github.com/Decimation/Novus)
+- [NeoCore](https://github.com/Decimation/NeoCore)
+- [RazorSharp](https://github.com/Decimation/RazorSharp)
 
 </details>
 
