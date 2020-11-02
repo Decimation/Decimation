@@ -11,7 +11,6 @@ I'm a Computer Science student at the University of Minnesota.
 I enjoy researching and working with low-level components such as memory, machine architecture, OS design, and so on. I sometimes work on "hacky" projects that tinker with hidden/low-level functionality. 
 
 - [Memkit](https://github.com/Decimation/Memkit)
-- [NeoMemory](https://github.com/Decimation/NeoMemory)
 
 </details>
 
