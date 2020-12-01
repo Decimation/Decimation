@@ -2,17 +2,6 @@
 
 I'm a Computer Science student at the University of Minnesota.
 
-## Low-level Research
-
-<details>
-  <summary>Click to open</summary>
-  <br />
-
-I enjoy researching and working with low-level components such as memory, machine architecture, OS design, and so on. I sometimes work on "hacky" projects that tinker with hidden/low-level functionality. 
-
-- [Memkit](https://github.com/Decimation/Memkit)
-
-</details>
 
 ## .NET
 
@@ -33,6 +22,20 @@ Some of my work on analyzing the .NET CLR and implementing/accessing features th
 - [RazorSharp](https://github.com/Decimation/RazorSharp)
 
 </details>
+
+## Low-level Research
+
+<details>
+  <summary>Click to open</summary>
+  <br />
+
+I enjoy researching and working with low-level components such as memory, machine architecture, OS design, and so on. I sometimes work on "hacky" projects that tinker with hidden/low-level functionality. 
+
+- [Memkit](https://github.com/Decimation/Memkit)
+
+</details>
+
+
 
 ## TI Calculators
 
