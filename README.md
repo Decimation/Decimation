@@ -46,6 +46,7 @@ I enjoy researching and working with low-level components such as memory, machin
 I have done some research and projects on Texas Instruments calculators, specifically the TI-84 Plus CE and the TI-Nspire calculators.
 
 - [TITrig](https://github.com/Decimation/TITrig)
+- [Nspire-Library](https://github.com/Decimation/Nspire-Library)
 - [HideCAS](https://github.com/Decimation/HideCAS)
 
 </details>
