@@ -17,7 +17,7 @@ I research the .NET CLR and its internal functionality. I have written some shor
 
 Some of my work on analyzing the .NET CLR and implementing/accessing features that are usually forbidden:
 
-- [Novus](https://github.com/Decimation/Novus)
+- **[Novus](https://github.com/Decimation/Novus)**
 - [NeoCore](https://github.com/Decimation/NeoCore)
 - [RazorSharp](https://github.com/Decimation/RazorSharp)
 
@@ -31,7 +31,8 @@ Some of my work on analyzing the .NET CLR and implementing/accessing features th
 
 I enjoy researching and working with low-level components such as memory, machine architecture, OS design, and so on. I sometimes work on "hacky" projects that tinker with hidden/low-level functionality. 
 
-- [Memkit](https://github.com/Decimation/Memkit)
+- [Novus](https://github.com/Decimation/Novus)
+- ~~[Memkit](https://github.com/Decimation/Memkit)~~
 
 </details>
 
@@ -45,8 +46,8 @@ I enjoy researching and working with low-level components such as memory, machin
 
 I have done some research and projects on Texas Instruments calculators, specifically the TI-84 Plus CE and the TI-Nspire calculators.
 
-- [TITrig](https://github.com/Decimation/TITrig)
 - [Nspire-Library](https://github.com/Decimation/Nspire-Library)
+- [TITrig](https://github.com/Decimation/TITrig)
 - ~~[HideCAS](https://github.com/Decimation/HideCAS)~~
 
 </details>
