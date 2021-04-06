@@ -1,4 +1,4 @@
-# Read Stanton (Decimation)
+# Read (Decimation)
 
 I'm a Computer Science student at the University of Minnesota.
 
