@@ -2,6 +2,10 @@
 
 I'm a Computer Science student at the University of Minnesota.
 
+## Main Projects
+
+- **[SmartImage](https://github.com/Decimation/SmartImage)**
+- **[Novus](https://github.com/Decimation/Novus)**
 
 ## .NET
 
