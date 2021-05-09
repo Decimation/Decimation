@@ -4,6 +4,8 @@ I'm a Computer Science student at the University of Minnesota.
 
 ## Main Projects
 
+![](https://img.shields.io/github/stars/decimation?style=social)
+
 - **[SmartImage](https://github.com/Decimation/SmartImage)**
 - **[Novus](https://github.com/Decimation/Novus)**
 
