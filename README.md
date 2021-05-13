@@ -2,9 +2,13 @@
 
 I'm a Computer Science student at the University of Minnesota.
 
-## Main Projects
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Decimation&count_private=true&theme=tokyonight&showicons=true)]()
 
-![](https://img.shields.io/github/stars/decimation?style=social)
+<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Decimation&langs_count=5&theme=tokyonight)]()-->
+
+<!--![](https://img.shields.io/github/stars/decimation?style=social)-->
+
+### Main Projects
 
 - **[SmartImage](https://github.com/Decimation/SmartImage)**
 - **[Novus](https://github.com/Decimation/Novus)**
