@@ -68,7 +68,14 @@ I have done some research and projects on Texas Instruments calculators, specifi
   <summary>Click to open</summary>
   <br />
 
-I know C#, Java, C++, C, and Python.
+Languages:
+  - C#
+  - C++
+  - C
+  - Java
+  - Python
+  - Batch
+  - PowerShell
 
 Old school account: [@StantonR16](https://github.com/StantonR16)
 
