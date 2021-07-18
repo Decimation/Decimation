@@ -59,6 +59,7 @@ I have done some research and projects on Texas Instruments calculators, specifi
 
 - [Nspire-Library](https://github.com/Decimation/Nspire-Library)
 - [TITrig](https://github.com/Decimation/TITrig)
+- [TICalc](https://github.com/Decimation/TICalc)
 - ~~[HideCAS](https://github.com/Decimation/HideCAS)~~
 
 </details>
