@@ -12,7 +12,7 @@ I'm a Computer Science student at the University of Minnesota.
 
 - **[SmartImage](https://github.com/Decimation/SmartImage)**
 - **[Novus](https://github.com/Decimation/Novus)**
-- **[SimpleCore](https://github.com/Decimation/SimpleCore)**
+- **[Kantan](https://github.com/Decimation/Kantan)**
 
 ## .NET
 
