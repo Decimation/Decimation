@@ -18,6 +18,7 @@ I'm a Computer Science student at the University of Minnesota.
 - **[SmartImage](https://github.com/Decimation/SmartImage)**
 - **[Novus](https://github.com/Decimation/Novus)**
 - **[Kantan](https://github.com/Decimation/Kantan)**
+- **[NWave](https://github.com/Decimation/NWave)**
 
 ## .NET
 
