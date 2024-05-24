@@ -2,8 +2,6 @@
 
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
 
-I'm a Computer Science student at the University of Minnesota.
-
 <!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Decimation&count_private=true&theme=tokyonight&showicons=true)]()-->
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Decimation&theme=great-gatsby&fire=ff0000&date_format=n/j/Y)](https://git.io/streak-stats)-->
