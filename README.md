@@ -87,7 +87,7 @@ Languages:
   - Batch
   - PowerShell
 
-Old school account: [@StantonR16](https://github.com/StantonR16)
+<!-- Old school account: [@StantonR16](https://github.com/StantonR16) -->
 
 </details>
 
